@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Andrea
 
-<!--
-**andrea-bianco00/andrea-bianco00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist grounded in statistics, AI, machine learning and functional data analysis.
 
-Here are some ideas to get you started:
+I use GitHub to document projects, experiments and technical work in a clear and reproducible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- Personal portfolio website
+- Functional data analysis and statistical modelling
+- Machine learning and AI projects
+- Reproducible workflows in R and Python
+
+## Technical interests
+
+- Statistics
+- Machine Learning
+- Artificial Intelligence
+- Functional Data Analysis
+- Time Series
+- Data Visualization
+- Web technologies for data projects
+
+## Tools
+
+Python · R · SQL · Git · GitHub · Next.js · LaTeX

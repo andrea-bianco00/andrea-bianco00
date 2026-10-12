@@ -28,13 +28,21 @@ The project combined statistical methodology, implementations in R, simulation s
 
 ## Technical background
 
-| Area | Tools and topics |
+My strongest programming background is in **R**, which I've used extensively for statistical modelling and research. I also work with **Python** for data analysis and machine learning, and have foundational knowledge of **SQL**.
+
+| Area | Tools and methods |
 | --- | --- |
-| **Programming** | Python, R, SQL |
-| **Machine learning** | scikit-learn, PyTorch, supervised learning, deep learning, NLP |
-| **Statistics** | Statistical inference, regression, functional data analysis, time series |
-| **Data processing** | pandas, NumPy, Apache Spark, Jupyter |
-| **Development and research** | Git, GitHub, R Markdown, LaTeX |
+| **Programming** | **R** (advanced), **Python** (intermediate), **SQL** (foundational) |
+| **Statistics & research** | Statistical inference, Bayesian statistics, regression, stochastic processes, functional data analysis, time series, Monte Carlo simulation |
+| **Machine learning & AI** | scikit-learn, PyTorch, TensorFlow/Keras, Hugging Face Transformers, XGBoost; supervised learning, deep learning, NLP |
+| **Data analysis & visualization** | pandas, NumPy, Matplotlib, Seaborn, Plotly; dplyr, tidyr, ggplot2, data.table; Power BI |
+| **Statistical computing in R** | mgcv, lme4, survival, MASS, fdapace/PACE, refund, fda, splines; R Markdown, Quarto, Shiny |
+| **Databases** | PostgreSQL, MySQL, SQLite, MongoDB, Neo4j/Cypher |
+| **Web & development** | HTML, CSS, JavaScript, React/Next.js, Git, GitHub, Vercel, Supabase |
+
+**A note on experience:** I am comfortable working independently in R and using Git/GitHub. My Python experience is intermediate; my SQL knowledge is foundational. I've used several database and web-development tools in practical projects, often with AI assistance, and I'm continuing to build my independence with them.
+
+**Additional academic exposure:** Apache Spark, Hadoop, MapReduce, reinforcement learning, bandit theory, and parallel computing. These are topics I've studied, rather than technologies I claim to use professionally today.
 
 ## Projects
 

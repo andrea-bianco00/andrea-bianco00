@@ -1,67 +1,107 @@
 <div align="center">
 
-# Andrea Bianco
+# Hi, I'm Andrea 👋
 
-### Data Scientist · Statistical Modelling · Machine Learning
+**Data Scientist · Statistics · Machine Learning**
 
-**From statistical theory to reproducible, real-world data analysis.**
+*I enjoy turning difficult questions into clear analyses — and understanding why a model works, not just whether it works.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-andrea--bianco.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrea-bianco.com)
-[![GitHub](https://img.shields.io/badge/GitHub-andrea--bianco00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrea-bianco00)
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andrea-bianco.com)
+[![Projects](https://img.shields.io/badge/Explore_my_projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrea-bianco00?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## A little about me
 
-I'm **Andrea Bianco**, a data scientist with a background in **statistics and data science**, developed through my studies at the **University of Bologna** and an international **double-degree experience at ENSAI, France**.
+I'm **Andrea Bianco**, a data scientist with a background in statistics and data science from the **University of Bologna**, enriched by an international double-degree experience at **ENSAI in France**.
 
-My work combines statistical reasoning, machine learning, and programming to investigate complex data and turn analytical results into clear, interpretable insights.
+What I like most about working with data is the combination of **mathematical reasoning, coding, and curiosity**. I enjoy exploring a problem from different angles: understanding the data, choosing methods that make sense, testing assumptions, and explaining what the results actually tell us.
 
-During a research internship at **CREST–ENSAI**, supervised by **Valentin Patilea**, I worked on **mean and covariance estimation for sparse functional data**. The work involved statistical methodology, implementation in R, simulation studies, and applications to real datasets.
+My interests span **statistical modelling, machine learning, deep learning, and data analysis**. I am particularly drawn to work where rigorous methods meet practical challenges — and where there is always something new to learn.
 
-I'm especially interested in roles where I can keep learning while applying rigorous statistical methods and modern machine learning to practical problems.
+## From coursework to research
 
-## Areas of interest
+One of the most formative parts of my academic journey was my research internship at **CREST–ENSAI**, under the supervision of **Valentin Patilea**.
 
-- **Statistical modelling:** estimation, inference, functional data analysis, and time series
-- **Machine learning:** supervised learning, model evaluation, and optimization
-- **Deep learning & NLP:** neural networks, sequence models, and transformers
-- **Data analysis & engineering:** reproducible workflows, large-scale processing, and visualization
+I worked on **estimating mean and covariance structures from sparse functional data** — a setting where each subject may have only a few observations of an underlying curve. This involved studying statistical methods, implementing approaches in **R**, designing simulation experiments, and analysing real datasets.
 
-## Technical toolkit
+That experience strengthened something I value in every project: **being careful about the assumptions behind a method, not just its final output**.
 
-| Area | Tools & methods |
-| --- | --- |
-| **Programming** | Python, R, SQL |
-| **Machine learning** | scikit-learn, PyTorch, statistical learning |
-| **Data & analytics** | pandas, NumPy, Apache Spark, data visualization |
-| **Workflow** | Git, GitHub, Jupyter, R Markdown, LaTeX |
+Alongside research, I have worked on academic projects involving natural language processing, matrix completion, large-scale data processing, spatial analysis, and time series.
 
-## Education & research
+## What I work with
 
-- **University of Bologna, Italy** — academic background in Statistics and Data Science
-- **ENSAI, France** — international double-degree experience in Data Science
-- **CREST–ENSAI, France** — research internship on sparse functional data, supervised by Valentin Patilea
+| | |
+| :-- | :-- |
+| **Languages** | Python · R · SQL |
+| **Machine learning & AI** | scikit-learn · PyTorch · neural networks · NLP |
+| **Statistical methods** | Statistical inference · regression · functional data analysis · time series |
+| **Data tools** | pandas · NumPy · Apache Spark · Jupyter |
+| **Research & development** | Git · GitHub · R Markdown · LaTeX · reproducible analysis |
+
+*I choose tools based on the problem, rather than the other way around.*
+
+## Selected areas of work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning & NLP
+Neural networks, transformers, model evaluation, optimization, and learning from structured or textual data.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Statistics & Research
+Statistical estimation, functional data analysis, simulation studies, and interpretable modelling.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ Spatial & Time Series Analysis
+Exploring geographic and temporal patterns through statistical and machine learning methods.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Data Processing & Analytics
+Working with real datasets, reproducible workflows, and large-scale data processing tools.
+
+</td>
+</tr>
+</table>
 
 ## Projects
 
-I'm currently refining and documenting a selection of academic, research, and personal projects. Each featured repository will aim to include:
+I'm gradually revisiting and improving the documentation of my university, research, and personal projects.
 
-- A concise explanation of the problem and approach
-- Readable code and clear setup instructions
-- Results, figures, and discussion of limitations
-- Credits for collaborators and sources where applicable
+My goal is for every featured repository to tell a complete story: **the question, the data, the approach, the results, and what I learned** — with code that others can follow and reproduce when the data and permissions allow it.
 
-**Explore my work:** [GitHub repositories](https://github.com/andrea-bianco00?tab=repositories) · [Personal portfolio](https://andrea-bianco.com)
+**[Browse my repositories →](https://github.com/andrea-bianco00?tab=repositories)**
 
-> Featured projects will be added here as their documentation and reproducibility are reviewed.
+*Individual project highlights will appear here as they are reviewed and documented.*
+
+## Beyond the code
+
+I value **curiosity, clarity, and continuous learning**. I enjoy working independently on technical challenges, but I also appreciate the perspective that comes from exchanging ideas, discussing results, and learning from other people.
+
+I'm looking to grow professionally in **Data Science and AI**, contributing to meaningful projects while continuing to deepen my technical skills.
 
 ---
 
 <div align="center">
 
-**Interested in my work?** Visit [andrea-bianco.com](https://andrea-bianco.com) for my background, projects, and contact information.
+### Let's connect
+
+For a more visual look at my background, projects, and research, visit my personal website.
+
+**[andrea-bianco.com](https://andrea-bianco.com)**
+
+*Thanks for stopping by!*
 
 </div>

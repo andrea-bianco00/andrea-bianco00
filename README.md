@@ -64,7 +64,7 @@ These projects are another way for me to practice problem-solving, learn new tec
 
 - **Portfolio:** [andrea-bianco.com](https://andrea-bianco.com)
 - **Code and projects:** [github.com/andrea-bianco00](https://github.com/andrea-bianco00)
-- **LinkedIn:** to be added once the profile link is confirmed
+- **LinkedIn:** [linkedin.com/in/andreabianco00](https://www.linkedin.com/in/andreabianco00/)
 
 ---
 
